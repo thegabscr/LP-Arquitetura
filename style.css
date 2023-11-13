@@ -76,6 +76,10 @@
     columns: auto;
 }
 
+.secaobio h1 {
+        line-height: 50px;
+}
+
 #forms {
     height: 700px;
     margin-top: 100px;
